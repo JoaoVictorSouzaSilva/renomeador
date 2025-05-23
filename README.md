@@ -39,6 +39,3 @@ Resultado: `imagem_001.jpg`, `imagem_002.jpg`, ...
 ## Autor
 João Victor Souza Silva
 =======
-# Renomeador
-Script em Python para renomear arquivos em massa automaticamente
->>>>>>> af292147b8a99643251ea7ee51d6ad76b841d989
