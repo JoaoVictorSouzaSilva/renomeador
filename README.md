@@ -37,5 +37,5 @@ Resultado: `imagem_001.jpg`, `imagem_002.jpg`, ...
 ---
 
 ## Autor
-João Victor Souza Silva
+João Victor de Souza Silva
 =======
