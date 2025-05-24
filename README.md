@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-# Renomeador de Arquivos em Massa
+# 🧾 Renomeador de Arquivos em Massa
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/JoaoVictorSouzaSilva/renomeador)
 
 Este projeto é um script em Python que renomeia todos os arquivos de uma pasta seguindo um padrão definido pelo usuário.
 
@@ -35,7 +39,8 @@ Novo nome base: imagem
 Resultado: `imagem_001.jpg`, `imagem_002.jpg`, ...
 
 ---
+## 👨‍🔧 Autor
 
-## Autor
-João Victor de Souza Silva
-=======
+João Victor de Souza Silva  
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-souza-silva-9a6a2525b/)  
+🔗 [Meu Github](https://github.com/JoaoVictorSouzaSilva)
